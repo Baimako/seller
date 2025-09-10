@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+  font-family: tahoma;
+  border: 2px solid plum;
+}
+footer {
+  text-align: center;
+  border: 2px solid plum;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
+body {
+  padding-bottom: 40px;
+}
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+}
